@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { StyleSheet, View, Text } from 'react-native';
-import BharatxReactnativeStartup from 'bharatx-reactnative-startup';
+import BharatxReactnativeStartup from '@bharatx/bharatx-reactnative-startup';
 import BharatxReactnativeSecurityhelpers from '@bharatx/bharatx-reactnative-securityhelpers';
 import BharatxReactnativeCommon from '@bharatx/bharatx-reactnative-common';
 
