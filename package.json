@@ -1,6 +1,6 @@
 {
   "name": "@bharatx/bharatx-reactnative-startup",
-  "version": "1.0.1-alpha2",
+  "version": "1.0.1-release1",
   "description": "Startup Tier of BharatX&#39;s SDKs in React Native",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
