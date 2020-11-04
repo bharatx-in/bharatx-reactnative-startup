@@ -63,7 +63,7 @@
   },
   "peerDependencies": {
     "@bharatx/bharatx-reactnative-alternatedata": "1.0.1-release1",
-    "@bharatx/bharatx-reactnative-common": "1.0.1-release1",
+    "@bharatx/bharatx-reactnative-common": "1.0.1-release2",
     "@bharatx/bharatx-reactnative-securityhelpers": "1.0.1-release1",
     "react": "*",
     "react-native": "*"
