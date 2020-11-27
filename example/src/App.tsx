@@ -9,7 +9,7 @@ export default function App() {
 
   React.useEffect(() => {
     BharatxReactnativeStartup.initialize('testPartnerId', 'testApiKey');
-    BharatxReactnativeSecurityhelpers.storeThemeColorPreferenceInHex('#000000');
+    BharatxReactnativeSecurityhelpers.storeThemeColorPreferenceInHex('#EB7527');
     BharatxReactnativeCommon.registerCreditAccess();
     BharatxReactnativeCommon.showBharatXProgressDialog();
     setTimeout(() => {
