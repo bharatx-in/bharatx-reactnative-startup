@@ -665,20 +665,20 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@bharatx/bharatx-reactnative-alternatedata@1.0.1-release1":
-  version "1.0.1-release1"
-  resolved "https://registry.yarnpkg.com/@bharatx/bharatx-reactnative-alternatedata/-/bharatx-reactnative-alternatedata-1.0.1-release1.tgz#cdaa56209d50263febdf5f6241ac12e49705e963"
-  integrity sha512-FgrM6Deai2kzdf2vmiURxeAcYGvJWeP9G+o/T7eEX5i2+RV6AfA6YRkcR3nVReCvG1okDvNWVSUW04fN05STmQ==
+"@bharatx/bharatx-reactnative-alternatedata@1.0.2-release1":
+  version "1.0.2-release1"
+  resolved "https://registry.yarnpkg.com/@bharatx/bharatx-reactnative-alternatedata/-/bharatx-reactnative-alternatedata-1.0.2-release1.tgz#a1f624bb052cecf841f4a228a6b36996c04cb744"
+  integrity sha512-nUxWtEBMgHNhZQNU+eHRtgXKvMapFIYkBNA/Zazs+QjQnUj5q+CASCZ2YRUnttCexV0ipklCgXccPR61rxC44Q==
 
-"@bharatx/bharatx-reactnative-common@1.0.1-release2":
-  version "1.0.1-release2"
-  resolved "https://registry.yarnpkg.com/@bharatx/bharatx-reactnative-common/-/bharatx-reactnative-common-1.0.1-release2.tgz#57012b18c77a7e975479bb1b782ce4791d701d8b"
-  integrity sha512-Dm9KuAnetMKxGMTYb0HfBVV0AAKypP9elEqTOE4Gpis9sVjOV51rN+EiNdKy39FQXPOuCcxdt+mbzLt3W/bxjg==
+"@bharatx/bharatx-reactnative-common@1.0.6-release1":
+  version "1.0.6-release1"
+  resolved "https://registry.yarnpkg.com/@bharatx/bharatx-reactnative-common/-/bharatx-reactnative-common-1.0.6-release1.tgz#46f204b091396a0c09d4a3f23069478ed84c20b2"
+  integrity sha512-SSI3pzHttN7V+QHsUVSopJGl521Ebz3LB0qCh4aX0q+tnUNnEt+XYJjFiqjBY6ZekpYkBb6gAAi+piIjtcU13Q==
 
-"@bharatx/bharatx-reactnative-securityhelpers@1.0.1-release1":
-  version "1.0.1-release1"
-  resolved "https://registry.yarnpkg.com/@bharatx/bharatx-reactnative-securityhelpers/-/bharatx-reactnative-securityhelpers-1.0.1-release1.tgz#3814c6c5f8d82b6d6a99061aa84ab6d652856214"
-  integrity sha512-nRH9GTt8FnsiXOapbhduaDuCokvi2cch8Qo044JvruRKuJRgjWQRVjihc2kRGxWV2mkjzddf6+8GaYHEe4OUZg==
+"@bharatx/bharatx-reactnative-securityhelpers@1.0.3-release1":
+  version "1.0.3-release1"
+  resolved "https://registry.yarnpkg.com/@bharatx/bharatx-reactnative-securityhelpers/-/bharatx-reactnative-securityhelpers-1.0.3-release1.tgz#9086f9c1db303e33419e93be5b3e35b8bf49ce1a"
+  integrity sha512-UPWZl2vfykU1p8HSMfIxL+HbKT/bARYzo7AUm1Y7xXUIV72wYEMLdCxGsBGoGbjQvVG0wAFA89lXHL+fTIZ7ow==
 
 "@cnakazawa/watch@^1.0.3":
   version "1.0.4"
