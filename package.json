@@ -1,6 +1,6 @@
 {
   "name": "@bharatx/bharatx-reactnative-startup",
-  "version": "1.0.4-release1",
+  "version": "1.0.6-release1",
   "description": "Startup Tier of BharatX&#39;s SDKs in React Native",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -62,9 +62,9 @@
     "typescript": "^3.8.3"
   },
   "peerDependencies": {
-    "@bharatx/bharatx-reactnative-alternatedata": "1.0.1-release1",
-    "@bharatx/bharatx-reactnative-common": "1.0.1-release2",
-    "@bharatx/bharatx-reactnative-securityhelpers": "1.0.1-release1",
+    "@bharatx/bharatx-reactnative-alternatedata": "1.0.2-release1",
+    "@bharatx/bharatx-reactnative-common": "1.0.6-release1",
+    "@bharatx/bharatx-reactnative-securityhelpers": "1.0.3-release1",
     "react": "*",
     "react-native": "*"
   },

@@ -1025,11 +1025,6 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@bharatx/bharatx-reactnative-common@1.0.1-release2":
-  version "1.0.1-release2"
-  resolved "https://registry.yarnpkg.com/@bharatx/bharatx-reactnative-common/-/bharatx-reactnative-common-1.0.1-release2.tgz#57012b18c77a7e975479bb1b782ce4791d701d8b"
-  integrity sha512-Dm9KuAnetMKxGMTYb0HfBVV0AAKypP9elEqTOE4Gpis9sVjOV51rN+EiNdKy39FQXPOuCcxdt+mbzLt3W/bxjg==
-
 "@cnakazawa/watch@^1.0.3":
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/@cnakazawa/watch/-/watch-1.0.4.tgz#f864ae85004d0fcab6f50be9141c4da368d1656a"

@@ -1,5 +1,6 @@
 import * as React from 'react';
 import { StyleSheet, View, Text } from 'react-native';
+import BharatxReactnativeAlternatedata from '@bharatx/bharatx-reactnative-alternatedata';
 import BharatxReactnativeStartup from '@bharatx/bharatx-reactnative-startup';
 import BharatxReactnativeSecurityhelpers from '@bharatx/bharatx-reactnative-securityhelpers';
 import BharatxReactnativeCommon from '@bharatx/bharatx-reactnative-common';
@@ -10,6 +11,7 @@ export default function App() {
   React.useEffect(() => {
     BharatxReactnativeStartup.initialize('testPartnerId', 'testApiKey');
     BharatxReactnativeSecurityhelpers.storeThemeColorPreferenceInHex('#EB7527');
+    BharatxReactnativeCommon.registerUserId('testuser1');
     BharatxReactnativeCommon.registerCreditAccess();
     BharatxReactnativeCommon.showBharatXProgressDialog();
     setTimeout(() => {
@@ -21,6 +23,7 @@ export default function App() {
         },
         () => {
           console.log('onUserAcceptedPrivacyPolicy');
+          BharatxReactnativeAlternatedata.register();
         },
         () => {
           console.log('onUserCancelledTransaction');
